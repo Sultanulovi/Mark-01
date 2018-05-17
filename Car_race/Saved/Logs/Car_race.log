@@ -1,0 +1,1354 @@
+﻿Log file open, 05/18/18 00:14:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Car_race
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2004517378) SRandInit(2004517378).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168134
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.797s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-LEQV6O9 (192.168.0.100:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: E:/UNREAL/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.17-18.14.27:303][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.17-18.14.27:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.17-18.14.27:316][  0]LogInit: Computer: DESKTOP-LEQV6O9
+[2018.05.17-18.14.27:316][  0]LogInit: User: ASUS
+[2018.05.17-18.14.27:316][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.05.17-18.14.27:316][  0]LogInit: High frequency timer resolution =2.648440 MHz
+[2018.05.17-18.14.27:316][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.17-18.14.27:316][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-18.14.27:316][  0]LogMemory: Process Physical Memory: 275.70 MB used, 275.70 MB peak
+[2018.05.17-18.14.27:316][  0]LogMemory: Process Virtual Memory: 263.77 MB used, 263.77 MB peak
+[2018.05.17-18.14.27:316][  0]LogMemory: Physical Memory: 4219.19 MB used,  3853.34 MB free, 8072.53 MB total
+[2018.05.17-18.14.27:316][  0]LogMemory: Virtual Memory: 679.02 MB used,  3853.34 MB free, 134217728.00 MB total
+[2018.05.17-18.14.27:337][  0]LogInit: Using OS detected language (en-US).
+[2018.05.17-18.14.27:337][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.17-18.14.27:340][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.17-18.14.27:853][  0]LogStreaming: Display: Took  0.515s to EndInitTextLocalization.
+[2018.05.17-18.14.27:854][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.17-18.14.27:892][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.17-18.14.27:893][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.17-18.14.28:110][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.17-18.14.28:147][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2018.05.17-18.14.28:147][  0]LogD3D11RHI:       2019/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.17-18.14.28:155][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.05.17-18.14.28:155][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.17-18.14.28:157][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.17-18.14.28:157][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.17-18.14.28:157][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.17-18.14.28:163][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.17-18.14.28:163][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2018.05.17-18.14.28:163][  0]LogWindows: EnumDisplayDevices:
+[2018.05.17-18.14.28:163][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.05.17-18.14.28:164][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.05.17-18.14.28:164][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.05.17-18.14.28:164][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.17-18.14.28:164][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2018.05.17-18.14.28:164][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.17-18.14.28:164][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.17-18.14.28:164][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.05.17-18.14.28:182][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.17-18.14.28:182][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.17-18.14.28:197][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.17-18.14.28:199][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (../../../../../../Car_race/Intermediate/Shaders/WorkingDirectory/3660/).
+[2018.05.17-18.14.28:199][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ASUS/AppData/Local/Temp/UnrealShaderWorkingDir/CB6306814B626541C3DB568F5D5AA218/'.
+[2018.05.17-18.14.28:477][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.17-18.14.28:494][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.17-18.14.28:510][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.17-18.14.28:528][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.17-18.14.28:547][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.17-18.14.28:567][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.17-18.14.28:585][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.17-18.14.28:603][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.17-18.14.28:612][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.17-18.14.28:631][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.17-18.14.28:646][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.17-18.14.28:660][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.17-18.14.28:672][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.17-18.14.28:685][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.17-18.14.28:696][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.17-18.14.28:721][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.17-18.14.28:721][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.17-18.14.28:733][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.17-18.14.28:734][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.17-18.14.28:771][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.17-18.14.28:783][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.17-18.14.28:795][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.17-18.14.28:807][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.17-18.14.28:820][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.17-18.14.28:834][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.17-18.14.28:834][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.17-18.14.28:915][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.17-18.14.28:915][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.17-18.14.28:915][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.17-18.14.29:646][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.17-18.14.29:736][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/ASUS/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.17-18.14.29:736][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ASUS/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.17-18.14.29:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Car_race/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.17-18.14.29:737][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.17-18.14.29:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Car_race/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.17-18.14.29:737][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.17-18.14.29:754][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.17-18.14.29:767][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.17-18.14.29:779][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.17-18.14.29:780][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.17-18.14.29:780][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.17-18.14.29:780][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.17-18.14.29:895][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2018.05.17-18.14.30:242][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.17-18.14.30:391][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.17-18.14.30:393][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.17-18.14.30:393][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.17-18.14.30:393][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.17-18.14.30:393][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.17-18.14.30:393][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.17-18.14.30:423][  0]LogNetVersion: Car_race , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2861803413)
+[2018.05.17-18.14.30:970][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.119033 seconds
+[2018.05.17-18.14.30:976][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.17-18.14.30:976][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.17-18.14.30:976][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.17-18.14.32:720][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.17-18.14.32:764][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.17-18.14.33:075][  0]SourceControl: Source control is disabled
+[2018.05.17-18.14.33:075][  0]SourceControl: Source control is disabled
+[2018.05.17-18.14.33:089][  0]SourceControl: Source control is disabled
+[2018.05.17-18.14.33:102][  0]SourceControl: Source control is disabled
+[2018.05.17-18.14.33:514][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.17-18.14.33:634][  0]LogOcInput: OculusInput pre-init called
+[2018.05.17-18.14.33:733][  0]LogEngine: Initializing Engine...
+[2018.05.17-18.14.33:735][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.17-18.14.33:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.17-18.14.33:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.17-18.14.34:050][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.17-18.14.34:063][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-18.14.34:165][  0]LogInit: FAudioDevice initialized.
+[2018.05.17-18.14.34:610][  0]LogDerivedDataCache: Saved boot cache 0.45s 74MB C:/Users/ASUS/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.17-18.14.34:621][  0]LogInit: Texture streaming: Enabled
+[2018.05.17-18.14.34:634][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.17-18.14.34:649][  0]LogInit: Transaction tracking system initialized
+[2018.05.17-18.14.34:666][  0]BlueprintLog: New page: Editor Load
+[2018.05.17-18.14.34:934][  0]LocalizationService: Localization service is disabled
+[2018.05.17-18.14.35:041][  0]LogConsoleResponse: Display: 
+[2018.05.17-18.14.35:223][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.17-18.14.35:223][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.17-18.14.35:223][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.17-18.14.35:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.17-18.14.35:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.17-18.14.35:570][  0]LogFileCache: Scanning file cache for directory 'E:/Car_race/Content/' took 0.01s
+[2018.05.17-18.14.35:570][  0]SourceControl: Source control is disabled
+[2018.05.17-18.14.35:709][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/UNREAL/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.05.17-18.14.36:194][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.05.17-18.14.36:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.05.17-18.14.36:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.05.17-18.14.36:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.05.17-18.14.36:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.05.17-18.14.36:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.05.17-18.14.36:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.05.17-18.14.36:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.05.17-18.14.36:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.05.17-18.14.37:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.05.17-18.14.37:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.05.17-18.14.37:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Car_race/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.05.17-18.14.37:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.05.17-18.14.37:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.05.17-18.14.37:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.05.17-18.14.37:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.05.17-18.14.37:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.05.17-18.14.37:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.05.17-18.14.37:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Fire01.uasset"
+[2018.05.17-18.14.37:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.05.17-18.14.37:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.05.17-18.14.37:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.05.17-18.14.37:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Light01.uasset"
+[2018.05.17-18.14.37:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.05.17-18.14.37:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Light02.uasset"
+[2018.05.17-18.14.37:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.05.17-18.14.37:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.05.17-18.14.37:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.05.17-18.14.37:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.05.17-18.14.37:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.05.17-18.14.37:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.05.17-18.14.37:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.05.17-18.14.37:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.05.17-18.14.38:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.05.17-18.14.38:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Steam01.uasset"
+[2018.05.17-18.14.38:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Car_race/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.05.17-18.14.38:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.05.17-18.14.38:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.05.17-18.14.38:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.05.17-18.14.38:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.05.17-18.14.38:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.05.17-18.14.38:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.05.17-18.14.38:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.05.17-18.14.38:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.05.17-18.14.38:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.05.17-18.14.38:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.05.17-18.14.38:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.05.17-18.14.38:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.05.17-18.14.38:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.05.17-18.14.38:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.05.17-18.14.38:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.05.17-18.14.38:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Car_race/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.05.17-18.14.41:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Car_race/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.05.17-18.14.41:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Car_race/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.05.17-18.14.41:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Car_race/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.05.17-18.14.41:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Car_race/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.05.17-18.14.41:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Car_race/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.05.17-18.14.41:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Car_race/Content/StarterContent/Maps/StarterMap.umap"
+[2018.05.17-18.14.42:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Car_race/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.05.17-18.14.42:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.05.17-18.14.42:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.05.17-18.14.42:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.05.17-18.14.42:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.05.17-18.14.42:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.05.17-18.14.42:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.05.17-18.14.43:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.05.17-18.14.43:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.05.17-18.14.43:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.05.17-18.14.43:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.05.17-18.14.43:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.05.17-18.14.43:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.05.17-18.14.43:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.05.17-18.14.43:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.05.17-18.14.43:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.05.17-18.14.43:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.05.17-18.14.43:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.05.17-18.14.43:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.05.17-18.14.43:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.05.17-18.14.43:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.05.17-18.14.43:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.05.17-18.14.43:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.05.17-18.14.43:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.05.17-18.14.43:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.05.17-18.14.43:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.05.17-18.14.43:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.05.17-18.14.43:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.05.17-18.14.43:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.05.17-18.14.43:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.05.17-18.14.43:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.05.17-18.14.43:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.05.17-18.14.43:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.05.17-18.14.43:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.05.17-18.14.43:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.05.17-18.14.43:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.05.17-18.14.44:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.05.17-18.14.44:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.05.17-18.14.44:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.05.17-18.14.44:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.05.17-18.14.44:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.05.17-18.14.44:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.05.17-18.14.44:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.05.17-18.14.44:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Car_race/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.05.17-18.14.44:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.05.17-18.14.44:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.05.17-18.14.44:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.05.17-18.14.44:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.05.17-18.14.44:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.05.17-18.14.44:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.05.17-18.14.44:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.05.17-18.14.44:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.05.17-18.14.44:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.05.17-18.14.44:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.05.17-18.14.44:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.05.17-18.14.44:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.05.17-18.14.44:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.05.17-18.14.44:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.05.17-18.14.44:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.05.17-18.14.44:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Car_race/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.05.17-18.14.44:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.05.17-18.14.44:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.05.17-18.14.45:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.05.17-18.14.45:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.05.17-18.14.45:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.05.17-18.14.45:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Door.uasset"
+[2018.05.17-18.14.45:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.05.17-18.14.45:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.05.17-18.14.45:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.05.17-18.14.45:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.05.17-18.14.45:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.05.17-18.14.45:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.05.17-18.14.45:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.05.17-18.14.45:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.05.17-18.14.45:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.05.17-18.14.45:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.05.17-18.14.45:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.05.17-18.14.46:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.05.17-18.14.46:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.05.17-18.14.46:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.05.17-18.14.46:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.05.17-18.14.46:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.05.17-18.14.46:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.05.17-18.14.46:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.05.17-18.14.46:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.05.17-18.14.46:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.05.17-18.14.46:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.05.17-18.14.46:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.05.17-18.14.46:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.05.17-18.14.46:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.05.17-18.14.46:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Car_race/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.05.17-18.14.46:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.05.17-18.14.46:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.05.17-18.14.46:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.05.17-18.14.46:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.05.17-18.14.46:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.05.17-18.14.46:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.05.17-18.14.46:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.05.17-18.14.46:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.05.17-18.14.46:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.05.17-18.14.46:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.05.17-18.14.46:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.05.17-18.14.46:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.05.17-18.14.46:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.05.17-18.14.47:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.05.17-18.14.47:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.05.17-18.14.47:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.05.17-18.14.47:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.05.17-18.14.47:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.05.17-18.14.47:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Car_race/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.05.17-18.14.47:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.05.17-18.14.47:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.05.17-18.14.47:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.05.17-18.14.47:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.05.17-18.14.47:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.05.17-18.14.48:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.05.17-18.14.48:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.05.17-18.14.48:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.05.17-18.14.48:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.05.17-18.14.48:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.05.17-18.14.48:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.05.17-18.14.48:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.05.17-18.14.48:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.05.17-18.14.49:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.05.17-18.14.49:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.05.17-18.14.49:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.05.17-18.14.49:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.05.17-18.14.49:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.05.17-18.14.49:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.05.17-18.14.49:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.05.17-18.14.49:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.05.17-18.14.49:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.05.17-18.14.49:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.05.17-18.14.49:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.05.17-18.14.49:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.05.17-18.14.50:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.05.17-18.14.50:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.05.17-18.14.50:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.05.17-18.14.50:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.05.17-18.14.51:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.05.17-18.14.51:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.05.17-18.14.51:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.05.17-18.14.51:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.05.17-18.14.51:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.05.17-18.14.51:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.05.17-18.14.52:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.05.17-18.14.52:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.05.17-18.14.52:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.05.17-18.14.52:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.05.17-18.14.53:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.05.17-18.14.53:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.05.17-18.14.53:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.05.17-18.14.53:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.05.17-18.14.53:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.05.17-18.14.53:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.05.17-18.14.53:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.05.17-18.14.54:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.05.17-18.14.54:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.05.17-18.14.54:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.05.17-18.14.54:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.05.17-18.14.54:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.05.17-18.14.54:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.05.17-18.14.54:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.05.17-18.14.55:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.05.17-18.14.55:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.05.17-18.14.55:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.05.17-18.14.55:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.05.17-18.14.55:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.05.17-18.14.55:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.05.17-18.14.56:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.05.17-18.14.56:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.05.17-18.14.56:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.05.17-18.14.56:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.05.17-18.14.56:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.05.17-18.14.56:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.05.17-18.14.56:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.05.17-18.14.56:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.05.17-18.14.57:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.05.17-18.14.57:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.05.17-18.14.57:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.05.17-18.14.57:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.05.17-18.14.57:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.05.17-18.14.57:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.05.17-18.14.58:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.05.17-18.14.58:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.05.17-18.14.58:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.05.17-18.14.58:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.05.17-18.14.58:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.05.17-18.14.58:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.05.17-18.14.58:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.05.17-18.14.59:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.05.17-18.14.59:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.05.17-18.14.59:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.05.17-18.15.00:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.05.17-18.15.00:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.05.17-18.15.00:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.05.17-18.15.00:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.05.17-18.15.00:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.05.17-18.15.00:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.05.17-18.15.00:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.05.17-18.15.01:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.05.17-18.15.01:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.05.17-18.15.01:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.05.17-18.15.01:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.05.17-18.15.01:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.05.17-18.15.01:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.05.17-18.15.01:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.05.17-18.15.01:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.05.17-18.15.01:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.05.17-18.15.01:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.05.17-18.15.01:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.05.17-18.15.02:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.05.17-18.15.02:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Car_race/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.05.17-18.15.03:095][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-18.15.03:680][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../../Car_race/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.05.17-18.15.03:841][  0]LogSavePackage: Save=100.40ms
+[2018.05.17-18.15.03:841][  0]LogSavePackage: Moving '../../../../../../Car_race/Saved/Floor_400x400F6435FE64E7886C1415EA7B89DE60D26.tmp' to '../../../../../../Car_race/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.05.17-18.15.04:007][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.05.17-18.15.04:007][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.05.17-18.15.04:011][  0]Cmd: MAP LOAD FILE="../../../../../../Car_race/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.17-18.15.04:012][  0]LightingResults: New page: Lighting Build
+[2018.05.17-18.15.04:014][  0]MapCheck: New page: Map Check
+[2018.05.17-18.15.04:014][  0]LightingResults: New page: Lighting Build
+[2018.05.17-18.15.05:438][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [9.798221ms] /Game/VehicleAdv/Vehicle/Vehicle_SkelMesh.Vehicle_SkelMesh
+[2018.05.17-18.15.05:465][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.05.17-18.15.06:242][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.17-18.15.06:259][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.17-18.15.06:304][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.725ms to complete.
+[2018.05.17-18.15.06:305][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 2.293
+[2018.05.17-18.15.06:372][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.17-18.15.06:373][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.17-18.15.06:502][  0]LogCollectionManager: Loaded 0 collections in 0.000864 seconds
+[2018.05.17-18.15.06:571][  0]LogFileCache: Scanning file cache for directory 'E:/Car_race/Saved/Collections/' took 0.01s
+[2018.05.17-18.15.06:571][  0]LogFileCache: Scanning file cache for directory 'E:/Car_race/Content/Developers/ASUS/Collections/' took 0.01s
+[2018.05.17-18.15.06:571][  0]LogFileCache: Scanning file cache for directory 'E:/Car_race/Content/Collections/' took 0.01s
+[2018.05.17-18.15.06:571][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.17-18.15.06:581][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2454 classes and 561 folders.
+[2018.05.17-18.15.06:587][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.17-18.15.07:715][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.17-18.15.07:720][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.17-18.15.07:741][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.17-18.15.07:744][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.17-18.15.07:824][  0]LogSlate: Took 0.069755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.17-18.15.07:940][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-18.15.08:012][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.17-18.15.08:140][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.17-18.15.08:140][  0]LogLoad: (Engine Initialization) Total time: 42.76 seconds
+[2018.05.17-18.15.08:140][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.17-18.15.08:152][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.05.17-18.15.08:152][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.05.17-18.15.08:152][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2018.05.17-18.15.08:152][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.05.17-18.15.08:152][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2018.05.17-18.15.08:282][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.17-18.15.11:255][126]LogAssetRegistry: Asset discovery search completed in 41.3821 seconds
+[2018.05.17-18.15.11:257][126]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.17-18.15.11:257][126]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.05.17-18.18.56:015][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-18.20.42:519][924]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.17-18.20.42:559][924]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\UC\TimeAttackSounds\Blueprints_TextPop03.WAV)
+[2018.05.17-18.20.42:748][924]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\UC\TimeAttackSounds\RealisticRender_MusicDay02.WAV)
+[2018.05.17-18.20.50:388][260]LogSlate: Window 'Save Content' being destroyed
+[2018.05.17-18.20.50:432][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints_TextPop03" FILE="../../../../../../Car_race/Content/Audio/Blueprints_TextPop03.uasset" SILENT=true
+[2018.05.17-18.20.50:445][260]LogSavePackage: Save=9.46ms
+[2018.05.17-18.20.50:445][260]LogSavePackage: Moving '../../../../../../Car_race/Saved/Blueprints_TextPop03ADC9E61D4BEB722C3C2A728202BDB087.tmp' to '../../../../../../Car_race/Content/Audio/Blueprints_TextPop03.uasset'
+[2018.05.17-18.20.50:447][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/Audio/Blueprints_TextPop03.uasset
+[2018.05.17-18.20.50:473][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/RealisticRender_MusicDay02" FILE="../../../../../../Car_race/Content/Audio/RealisticRender_MusicDay02.uasset" SILENT=true
+[2018.05.17-18.20.50:490][260]LogSavePackage: Save=14.67ms
+[2018.05.17-18.20.50:490][260]LogSavePackage: Moving '../../../../../../Car_race/Saved/RealisticRender_MusicDay02C300BAAD43B90307F6DA4BA11EA1843A.tmp' to '../../../../../../Car_race/Content/Audio/RealisticRender_MusicDay02.uasset'
+[2018.05.17-18.20.50:492][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/Audio/RealisticRender_MusicDay02.uasset
+[2018.05.17-18.21.15:229][552]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.17-18.22.07:659][330]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.17-18.22.30:559][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/myplayercontroller" FILE="../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset" SILENT=true
+[2018.05.17-18.22.30:576][476]LogSavePackage: Save=11.57ms
+[2018.05.17-18.22.30:576][476]LogSavePackage: Moving '../../../../../../Car_race/Saved/myplayercontrollerD4EE459147548A2AF53B4BAE49A45548.tmp' to '../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset'
+[2018.05.17-18.22.30:579][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset
+[2018.05.17-18.22.53:246][173]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.17-18.23.22:839][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/MysaveGAme" FILE="../../../../../../Car_race/Content/blueprint/MysaveGAme.uasset" SILENT=true
+[2018.05.17-18.23.22:851][914]LogSavePackage: Save=8.40ms
+[2018.05.17-18.23.22:851][914]LogSavePackage: Moving '../../../../../../Car_race/Saved/MysaveGAme19EAEFD84FAB38E6B60E26A5F85FD28F.tmp' to '../../../../../../Car_race/Content/blueprint/MysaveGAme.uasset'
+[2018.05.17-18.23.22:854][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/MysaveGAme.uasset
+[2018.05.17-18.23.29:104][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/tracker" FILE="../../../../../../Car_race/Content/blueprint/tracker.uasset" SILENT=true
+[2018.05.17-18.23.29:148][302]LogSavePackage: Save=14.39ms
+[2018.05.17-18.23.29:148][302]LogSavePackage: Moving '../../../../../../Car_race/Saved/tracker1C0D3A3F418E34E3E51455A1A6045947.tmp' to '../../../../../../Car_race/Content/blueprint/tracker.uasset'
+[2018.05.17-18.23.29:151][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/tracker.uasset
+[2018.05.17-18.23.45:493][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/myplayercontroller" FILE="../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset" SILENT=true
+[2018.05.17-18.23.45:644][295]LogSavePackage: Save=136.84ms
+[2018.05.17-18.23.45:644][295]LogSavePackage: Moving '../../../../../../Car_race/Saved/myplayercontrollerF8A05DAA4BBDA750DE474C97FDC90390.tmp' to '../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset'
+[2018.05.17-18.23.45:646][295]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset
+[2018.05.17-18.23.51:076][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Content/blueprint/checkpoint.uasset" SILENT=true
+[2018.05.17-18.23.51:094][661]LogSavePackage: Save=12.52ms
+[2018.05.17-18.23.51:094][661]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpoint3599957B406A0CF08A4F32A8762BAF7F.tmp' to '../../../../../../Car_race/Content/blueprint/checkpoint.uasset'
+[2018.05.17-18.23.51:096][661]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/checkpoint.uasset
+[2018.05.17-18.24.09:923][805]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.17-18.24.28:670][693]LogSlate: Window 'Save Content' being destroyed
+[2018.05.17-18.24.28:690][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/TimeConversion" FILE="../../../../../../Car_race/Content/blueprint/TimeConversion.uasset" SILENT=true
+[2018.05.17-18.24.28:704][693]LogSavePackage: Save=7.40ms
+[2018.05.17-18.24.28:704][693]LogSavePackage: Moving '../../../../../../Car_race/Saved/TimeConversionB94BDECF4AAE53D794F4E3AE3446ED41.tmp' to '../../../../../../Car_race/Content/blueprint/TimeConversion.uasset'
+[2018.05.17-18.24.28:706][693]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/TimeConversion.uasset
+[2018.05.17-18.25.04:410][638]LogSlate: Window 'Save Content' being destroyed
+[2018.05.17-18.25.04:430][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/ui/HUD" FILE="../../../../../../Car_race/Content/blueprint/ui/HUD.uasset" SILENT=true
+[2018.05.17-18.25.04:554][638]LogSavePackage: Save=118.24ms
+[2018.05.17-18.25.04:554][638]LogSavePackage: Moving '../../../../../../Car_race/Saved/HUD4748CF2B4FA18F8FD3A020ACAA614DB6.tmp' to '../../../../../../Car_race/Content/blueprint/ui/HUD.uasset'
+[2018.05.17-18.25.04:556][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/ui/HUD.uasset
+[2018.05.17-18.25.27:367][635]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.17-18.25.35:312][957]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.17-18.25.43:423][394]BlueprintLog: New page: Compile VehicleAdvGameMode
+[2018.05.17-18.25.45:551][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode" FILE="../../../../../../Car_race/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset" SILENT=true
+[2018.05.17-18.25.45:755][474]LogSavePackage: Save=190.00ms
+[2018.05.17-18.25.45:756][474]LogSavePackage: Moving '../../../../../../Car_race/Saved/VehicleAdvGameMode71B3E2794ACDB9BA5A9DC995F3EABA0F.tmp' to '../../../../../../Car_race/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset'
+[2018.05.17-18.25.45:760][474]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset
+[2018.05.17-18.25.48:312][591]LogSlate: Window 'VehicleAdvGameMode' being destroyed
+[2018.05.17-18.25.56:882][958]LogRenderer: Reallocating scene render targets to support 1536x744 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-18.28.54:133][409]LogSlate: Took 0.107997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.17-18.32.41:348][893]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.028
+[2018.05.17-18.32.41:366][893]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/myplayercontroller] ([1] browsable assets)...
+[2018.05.17-18.32.41:366][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/myplayercontroller]
+[2018.05.17-18.32.41:366][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/myplayercontroller" FILE="../../../../../../Car_race/Saved/Autosaves/Game/blueprint/myplayercontroller_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.17-18.32.41:389][893]LogSavePackage: Save=11.82ms
+[2018.05.17-18.32.41:389][893]LogSavePackage: Moving '../../../../../../Car_race/Saved/myplayercontroller_Auto1B39C10944F15ECD48CF4B5A60F4AD5D2.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/blueprint/myplayercontroller_Auto1.uasset'
+[2018.05.17-18.32.41:389][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/blueprint/myplayercontroller_Auto1.uasset
+[2018.05.17-18.32.41:390][893]LogFileHelpers: Auto-saving content packages took 0.041
+[2018.05.17-18.38.55:079][776]LogClass: Warning: Type mismatch in SaveSlot of SKEL_MyPlayerController_C - Previous (StructProperty) Current(StrProperty) for package:  FObjectReader
+[2018.05.17-18.39.21:934][611]BlueprintLog: New page: Compile MyPlayerController
+[2018.05.17-18.40.34:995][413]BlueprintLog: New page: Compile MyPlayerController
+[2018.05.17-18.40.38:893][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/myplayercontroller" FILE="../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset" SILENT=true
+[2018.05.17-18.40.39:099][506]LogSavePackage: Save=16.80ms
+[2018.05.17-18.40.39:099][506]LogSavePackage: Moving '../../../../../../Car_race/Saved/myplayercontroller74292E0744418BDB5F317EBD2701FF19.tmp' to '../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset'
+[2018.05.17-18.40.39:102][506]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset
+[2018.05.17-18.42.11:297][258]LogSlate: Took 0.034258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.17-18.43.19:836][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.033
+[2018.05.17-18.43.19:838][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/myplayercontroller] ([1] browsable assets)...
+[2018.05.17-18.43.19:838][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/myplayercontroller]
+[2018.05.17-18.43.19:838][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/myplayercontroller" FILE="../../../../../../Car_race/Saved/Autosaves/Game/blueprint/myplayercontroller_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.17-18.43.19:859][281]LogSavePackage: Save=18.17ms
+[2018.05.17-18.43.19:859][281]LogSavePackage: Moving '../../../../../../Car_race/Saved/myplayercontroller_Auto2B2DCF88246B0D21AC365259768BEA26F.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/blueprint/myplayercontroller_Auto2.uasset'
+[2018.05.17-18.43.19:860][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/blueprint/myplayercontroller_Auto2.uasset
+[2018.05.17-18.43.19:860][281]LogFileHelpers: Auto-saving content packages took 0.023
+[2018.05.17-18.46.54:309][460]LogSlate: Took 0.010431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.17-18.49.05:314][479]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.17-18.57.54:728][719]BlueprintLog: New page: Compile MyPlayerController
+[2018.05.17-18.57.56:837][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/myplayercontroller" FILE="../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset" SILENT=true
+[2018.05.17-18.57.56:910][772]LogSavePackage: Save=42.91ms
+[2018.05.17-18.57.56:910][772]LogSavePackage: Moving '../../../../../../Car_race/Saved/myplayercontrollerB7B1AFA74BEABFF8F551B8B9E07E0869.tmp' to '../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset'
+[2018.05.17-18.57.56:913][772]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset
+[2018.05.17-18.58.05:654][171]BlueprintLog: New page: Compile MyPlayerController
+[2018.05.17-18.58.06:711][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/myplayercontroller" FILE="../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset" SILENT=true
+[2018.05.17-18.58.06:749][194]LogSavePackage: Save=31.64ms
+[2018.05.17-18.58.06:749][194]LogSavePackage: Moving '../../../../../../Car_race/Saved/myplayercontroller280BA6F64156AD7BF54084AB1FE3026D.tmp' to '../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset'
+[2018.05.17-18.58.06:749][194]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/myplayercontroller.uasset
+[2018.05.17-18.58.21:633][760]LogSlate: Window 'Details' being destroyed
+[2018.05.17-18.58.21:640][760]LogSlate: Window 'Details' being destroyed
+[2018.05.17-18.58.21:640][760]LogSlate: Window 'MyPlayerController' being destroyed
+[2018.05.17-18.58.48:478][  4]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.05.17-18.58.49:348][ 22]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.05.17-18.59.01:944][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-18.59.43:482][406]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2018.05.17-19.01.08:212][768]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_bump_wedge_9)
+[2018.05.17-19.01.08:587][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.01.13:731][993]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_19)
+[2018.05.17-19.01.13:813][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.01.28:241][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.01.30:797][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_bump_wedge_8)
+[2018.05.17-19.01.33:707][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_19)
+[2018.05.17-19.02.10:610][563]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_bump_wedge_10)
+[2018.05.17-19.02.10:692][563]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.11:450][601]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_19)
+[2018.05.17-19.02.11:525][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.12:592][660]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.02.12:673][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.13:733][720]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_bump_wedge_10)
+[2018.05.17-19.02.13:815][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.14:753][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.15:743][821]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_19)
+[2018.05.17-19.02.15:828][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.17:107][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_90_large)
+[2018.05.17-19.02.17:642][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.18:157][911]LogSavePackage: Save=390.30ms
+[2018.05.17-19.02.18:157][911]LogSavePackage: Moving '../../../../../../Car_race/Saved/VehicleAdvExampleMap_Auto3366B322B4DFEEECC3B27D6BE52BE0AFD.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto3.umap'
+[2018.05.17-19.02.18:158][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto3.umap
+[2018.05.17-19.02.18:174][911]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.495
+[2018.05.17-19.02.18:174][911]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.495
+[2018.05.17-19.02.21:726][ 59]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_turn_90_large)
+[2018.05.17-19.02.21:786][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.23:287][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.02.23:565][143]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.02.23:627][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.24:863][203]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.02.24:926][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.02.26:292][285]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.26:292][285]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.26:747][310]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.26:747][310]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.28:263][400]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.28:263][400]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.02.28:831][431]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.28:831][431]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.29:238][455]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.29:238][455]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.02.29:605][474]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.29:605][474]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.29:891][488]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.29:891][488]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-19.02.30:357][511]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.30:357][511]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.30:782][532]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.30:782][532]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.31:265][558]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.31:265][558]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.31:711][581]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.31:711][581]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.32:065][598]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.32:065][598]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.32:661][621]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.32:661][621]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.33:083][646]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.33:084][646]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.02.33:479][666]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.33:479][666]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.02.33:899][687]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.33:899][687]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.02.34:280][707]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.34:280][707]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.34:607][726]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.34:607][726]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.35:243][761]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.35:243][761]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.02.35:860][795]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.35:861][795]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.02.36:475][829]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.36:475][829]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.02.36:968][854]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.36:968][854]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.02.37:500][884]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.37:501][884]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.37:967][908]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.37:967][908]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.02.38:409][930]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.38:409][930]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.38:908][957]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.38:908][957]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.39:621][999]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.39:621][999]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.40:067][ 25]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.40:067][ 25]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.40:698][ 62]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.40:698][ 62]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.41:345][100]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.41:345][100]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.42:026][140]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.42:026][140]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.43:360][219]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.43:360][219]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.02.44:358][278]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.44:358][278]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.02.44:686][292]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.44:686][292]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.02.52:918][727]Cmd: TRANSACTION UNDO
+[2018.05.17-19.02.52:918][727]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.04.00:941][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.04.18:374][174]LogSlate: Window 'Save Content' being destroyed
+[2018.05.17-19.04.18:386][174]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.04.18:824][174]LogSavePackage: Save=354.07ms
+[2018.05.17-19.04.18:824][174]LogSavePackage: Moving '../../../../../../Car_race/Saved/VehicleAdvExampleMapC813BB5640944A2F89594582458D51A0.tmp' to '../../../../../../Car_race/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.05.17-19.04.18:827][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.05.17-19.04.18:843][174]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.447
+[2018.05.17-19.04.29:428][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.04.59:055][673]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-19.05.18:314][421]LogSlate: Window 'Save Content' being destroyed
+[2018.05.17-19.05.18:369][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.17-19.05.18:726][421]LogSavePackage: Save=316.23ms
+[2018.05.17-19.05.18:726][421]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap2A63038248E49384BD0C74B93F1612DD.tmp' to '../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap'
+[2018.05.17-19.05.18:728][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap
+[2018.05.17-19.05.18:736][421]LogFileHelpers: Saving map 'LopMap' took 0.412
+[2018.05.17-19.05.18:741][421]Cmd: MAP LOAD FILE="../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.17-19.05.18:741][421]LightingResults: New page: Lighting Build
+[2018.05.17-19.05.18:742][421]LoadErrors: New page: Loading map: LopMap.umap
+[2018.05.17-19.05.18:772][421]MapCheck: New page: Map Check
+[2018.05.17-19.05.18:772][421]LightingResults: New page: Lighting Build
+[2018.05.17-19.05.18:841][421]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.17-19.05.18:890][421]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.17-19.05.18:947][421]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.619ms to complete.
+[2018.05.17-19.05.18:949][421]LogFileHelpers: Loading map 'LopMap' took 0.210
+[2018.05.17-19.07.48:979][560]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.07.49:083][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.07.49:787][593]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_41)
+[2018.05.17-19.07.49:865][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.07.50:571][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.07.51:913][694]Cmd: TRANSACTION UNDO
+[2018.05.17-19.07.51:913][694]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-19.07.53:248][766]Cmd: TRANSACTION UNDO
+[2018.05.17-19.07.53:248][766]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.07.53:932][802]Cmd: TRANSACTION UNDO
+[2018.05.17-19.07.53:932][802]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.07.55:687][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_17)
+[2018.05.17-19.07.56:724][949]Cmd: TRANSACTION UNDO
+[2018.05.17-19.07.56:724][949]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.08.01:931][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.08.02:973][202]LogSlate: Window 'Save Content' being destroyed
+[2018.05.17-19.08.02:986][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.08.03:043][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.17-19.08.03:396][202]LogSavePackage: Save=300.22ms
+[2018.05.17-19.08.03:396][202]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap1423380549A23A9DE10628A6611E43AD.tmp' to '../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap'
+[2018.05.17-19.08.03:398][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap
+[2018.05.17-19.08.03:408][202]LogFileHelpers: Saving map 'LopMap' took 0.413
+[2018.05.17-19.08.18:250][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.12.42:801][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.13.31:622][785]BlueprintLog: New page: Compile Checkpoint
+[2018.05.17-19.13.32:270][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Content/blueprint/checkpoint.uasset" SILENT=true
+[2018.05.17-19.13.32:392][791]LogSavePackage: Save=20.70ms
+[2018.05.17-19.13.32:392][791]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpoint61DE253F468D3F7A2B34FB92B67449D3.tmp' to '../../../../../../Car_race/Content/blueprint/checkpoint.uasset'
+[2018.05.17-19.13.32:398][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/checkpoint.uasset
+[2018.05.17-19.14.00:168][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.14.01:547][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.14.18:939][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.14.34:089][192]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.14.34:192][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.14.37:655][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.14.38:930][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_17)
+[2018.05.17-19.14.40:371][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.14.44:837][707]Cmd: TRANSACTION UNDO
+[2018.05.17-19.14.44:837][707]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.14.45:576][735]Cmd: TRANSACTION UNDO
+[2018.05.17-19.14.45:577][735]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.14.46:254][764]Cmd: TRANSACTION UNDO
+[2018.05.17-19.14.46:254][764]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.14.46:984][796]Cmd: TRANSACTION UNDO
+[2018.05.17-19.14.46:984][796]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.14.47:854][835]Cmd: TRANSACTION UNDO
+[2018.05.17-19.14.47:854][835]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.14.49:663][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.14.51:014][962]Cmd: TRANSACTION UNDO
+[2018.05.17-19.14.51:014][962]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.15.24:348][492]LogEditorViewport: Clicking on Actor (context menu): Checkpoint_C (Checkpoint)
+[2018.05.17-19.15.24:388][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.15.37:851][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.15.38:620][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.15.41:226][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.15.43:949][559]Cmd: TRANSACTION UNDO
+[2018.05.17-19.15.43:949][559]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.15.44:546][584]Cmd: TRANSACTION UNDO
+[2018.05.17-19.15.44:546][584]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.16.05:510][472]LogEditorViewport: Clicking on Actor (context menu): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.05.17-19.16.05:816][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.16.11:332][693]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full)
+[2018.05.17-19.16.11:413][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.16.12:726][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_17)
+[2018.05.17-19.16.13:635][804]Cmd: TRANSACTION UNDO
+[2018.05.17-19.16.13:635][804]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.16.14:511][843]Cmd: TRANSACTION UNDO
+[2018.05.17-19.16.14:511][843]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.16.16:531][921]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full)
+[2018.05.17-19.16.16:610][921]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.16.17:797][971]Cmd: TRANSACTION UNDO
+[2018.05.17-19.16.17:797][971]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.16.26:386][345]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2018.05.17-19.16.26:462][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.16.30:845][538]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_bump_wave_small)
+[2018.05.17-19.16.30:939][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.16.32:344][618]Cmd: TRANSACTION UNDO
+[2018.05.17-19.16.32:344][618]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.16.33:601][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.16.36:244][794]Cmd: TRANSACTION UNDO
+[2018.05.17-19.16.36:244][794]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.16.44:869][168]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.16.44:950][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.16.46:321][246]Cmd: TRANSACTION UNDO
+[2018.05.17-19.16.46:322][246]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.16.47:601][319]Cmd: TRANSACTION UNDO
+[2018.05.17-19.16.47:601][319]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.16.48:152][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.16.49:710][410]Cmd: TRANSACTION UNDO
+[2018.05.17-19.16.49:710][410]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.16.52:686][549]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2018.05.17-19.16.55:248][655]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2018.05.17-19.17.03:899][ 23]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.17.03:976][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.17.05:913][135]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.17.05:976][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.17.07:555][214]Cmd: TRANSACTION UNDO
+[2018.05.17-19.17.07:555][214]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.17.08:270][243]Cmd: TRANSACTION UNDO
+[2018.05.17-19.17.08:270][243]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.17.09:914][320]Cmd: TRANSACTION UNDO
+[2018.05.17-19.17.09:914][320]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.17.11:047][373]Cmd: TRANSACTION UNDO
+[2018.05.17-19.17.11:047][373]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.17.33:948][352]LogEditorViewport: Clicking on Actor (context menu): TextRenderActor (TextRenderActor)
+[2018.05.17-19.17.34:026][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.17.35:007][407]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.17.35:088][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.17.36:041][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.17.36:705][489]Cmd: TRANSACTION UNDO
+[2018.05.17-19.17.36:705][489]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.17.37:046][503]Cmd: TRANSACTION UNDO
+[2018.05.17-19.17.37:046][503]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.17.38:567][572]Cmd: TRANSACTION UNDO
+[2018.05.17-19.17.38:567][572]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.17.41:709][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.17.59:582][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.18.00:831][650]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.00:831][650]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.18.02:291][723]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.02:292][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-19.18.02:776][742]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.02:777][742]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.18.03:648][779]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.03:648][779]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.18.05:137][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_17)
+[2018.05.17-19.18.06:056][880]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.06:056][880]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.18.06:904][915]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.06:904][915]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.18.08:696][984]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.08:696][984]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.18.25:143][659]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_40)
+[2018.05.17-19.18.25:226][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.18.26:508][732]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.26:508][732]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.18.28:318][835]Cmd: TRANSACTION UNDO
+[2018.05.17-19.18.28:318][835]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-19.18.30:075][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-19.18.31:992][ 17]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2018.05.17-19.18.53:241][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.18.55:369][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.18.57:138][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.20.19:441][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.20.19:523][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.17-19.20.20:185][517]LogSavePackage: Save=430.61ms
+[2018.05.17-19.20.20:185][517]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap_Auto4A49FDE5249A0FFBB8A2ACBA86FF11642.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto4.umap'
+[2018.05.17-19.20.20:186][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto4.umap
+[2018.05.17-19.20.20:285][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/LopMap' took 0.804
+[2018.05.17-19.20.20:285][517]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.804
+[2018.05.17-19.20.20:289][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/checkpoint] ([1] browsable assets)...
+[2018.05.17-19.20.20:289][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/checkpoint]
+[2018.05.17-19.20.20:289][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.05.17-19.20.20:315][517]LogSavePackage: Save=14.31ms
+[2018.05.17-19.20.20:315][517]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpoint_Auto4DE2FDC6540212231F8AB6483CDF4F5C2.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto4.uasset'
+[2018.05.17-19.20.20:316][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto4.uasset
+[2018.05.17-19.20.20:316][517]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.05.17-19.20.28:934][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.30.20:458][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.17-19.30.20:921][725]LogSavePackage: Save=338.43ms
+[2018.05.17-19.30.20:921][725]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap_Auto5DCDA1AFE445B78A61CC6AAAA86812B22.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto5.umap'
+[2018.05.17-19.30.20:922][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto5.umap
+[2018.05.17-19.30.20:924][725]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/LopMap' took 0.499
+[2018.05.17-19.30.20:924][725]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.499
+[2018.05.17-19.30.20:927][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/checkpoint] ([1] browsable assets)...
+[2018.05.17-19.30.20:927][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/checkpoint]
+[2018.05.17-19.30.20:927][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.05.17-19.30.20:963][725]LogSavePackage: Save=18.88ms
+[2018.05.17-19.30.20:963][725]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpoint_Auto56AC245324DFF15D8C2EFF781888BC7C9.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto5.uasset'
+[2018.05.17-19.30.20:964][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto5.uasset
+[2018.05.17-19.30.20:964][725]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.05.17-19.31.42:680][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.40.21:086][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/LopMap' took 0.028
+[2018.05.17-19.40.21:088][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/checkpoint] ([1] browsable assets)...
+[2018.05.17-19.40.21:088][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/checkpoint]
+[2018.05.17-19.40.21:088][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.05.17-19.40.21:135][530]LogSavePackage: Save=20.52ms
+[2018.05.17-19.40.21:135][530]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpoint_Auto601F64C734EF381FCFF8D1A8303DE0E2F.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto6.uasset'
+[2018.05.17-19.40.21:135][530]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto6.uasset
+[2018.05.17-19.40.21:135][530]LogFileHelpers: Auto-saving content packages took 0.048
+[2018.05.17-19.43.37:768][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.51.14:211][ 93]BlueprintLog: New page: Compile Checkpoint
+[2018.05.17-19.51.15:761][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Content/blueprint/checkpoint.uasset" SILENT=true
+[2018.05.17-19.51.15:902][126]LogSavePackage: Save=129.30ms
+[2018.05.17-19.51.15:902][126]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpointEFA95433451C6B28C74F48BE1138CD94.tmp' to '../../../../../../Car_race/Content/blueprint/checkpoint.uasset'
+[2018.05.17-19.51.15:907][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/checkpoint.uasset
+[2018.05.17-19.51.21:712][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.51.29:347][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.51.29:423][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-19.51.29:509][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-19.51.29:582][734]PIE: New page: PIE session: LopMap (May 18, 2018, 7:51:29 AM)
+[2018.05.17-19.51.29:583][734]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap
+[2018.05.17-19.51.29:656][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073075s)
+[2018.05.17-19.51.29:657][734]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-19.51.29:657][734]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2018.05.17-19.51.29:657][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/LopMap.LopMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap (0.074332s)
+[2018.05.17-19.51.29:708][734]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-19.51.29:740][734]LogInit: FAudioDevice initialized.
+[2018.05.17-19.51.29:798][734]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.17-19.51.29:962][734]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap up for play (max tick rate 60) at 2018.05.18-01.51.29
+[2018.05.17-19.51.30:010][734]LogWorld: Bringing up level for play took: 0.083990
+[2018.05.17-19.51.30:148][734]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.05.17-19.51.30:238][734]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap 1.594
+[2018.05.17-19.51.54:887][926]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-19.51.54:902][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-19.51.54:902][926]PIE: New page: PIE session: LopMap (May 18, 2018, 7:51:54 AM)
+[2018.05.17-19.51.54:902][926]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap
+[2018.05.17-19.51.54:926][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024096s)
+[2018.05.17-19.51.54:927][926]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-19.51.54:927][926]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.05.17-19.51.54:927][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/LopMap.LopMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap (0.025235s)
+[2018.05.17-19.51.54:952][926]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-19.51.54:979][926]LogInit: FAudioDevice initialized.
+[2018.05.17-19.51.55:010][926]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.17-19.51.55:016][926]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap up for play (max tick rate 60) at 2018.05.18-01.51.55
+[2018.05.17-19.51.55:017][926]LogWorld: Bringing up level for play took: 0.005384
+[2018.05.17-19.51.55:018][926]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap 0.373
+[2018.05.17-19.52.51:943][985]Set new viewmode: Unlit
+[2018.05.17-19.52.52:922][ 42]Set new viewmode: Unlit
+[2018.05.17-19.52.53:639][ 85]Set new viewmode: Unlit
+[2018.05.17-19.52.58:222][360]Set new viewmode: Unlit
+[2018.05.17-19.53.01:941][583]Set new viewmode: Unlit
+[2018.05.17-19.53.10:808][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.53.18:159][485]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-19.53.18:168][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-19.53.18:168][485]PIE: New page: PIE session: LopMap (May 18, 2018, 7:53:18 AM)
+[2018.05.17-19.53.18:168][485]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap
+[2018.05.17-19.53.18:189][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021609s)
+[2018.05.17-19.53.18:190][485]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-19.53.18:190][485]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2018.05.17-19.53.18:190][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/LopMap.LopMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap (0.022648s)
+[2018.05.17-19.53.18:212][485]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-19.53.18:237][485]LogInit: FAudioDevice initialized.
+[2018.05.17-19.53.18:273][485]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.17-19.53.18:279][485]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap up for play (max tick rate 60) at 2018.05.18-01.53.18
+[2018.05.17-19.53.18:280][485]LogWorld: Bringing up level for play took: 0.005402
+[2018.05.17-19.53.18:281][485]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap -0.363
+[2018.05.17-19.53.30:959][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.54.23:045][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.54.37:081][649]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume6)
+[2018.05.17-19.54.43:911][963]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.43:911][963]LogEditorTransaction: Undo Move Actors
+[2018.05.17-19.54.44:192][976]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.44:192][976]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.54.44:450][988]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.44:451][988]LogEditorTransaction: Undo Rename Node
+[2018.05.17-19.54.45:079][ 19]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.45:079][ 19]LogEditorTransaction: Undo Rename Node
+[2018.05.17-19.54.45:580][ 44]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.45:580][ 44]LogEditorTransaction: Undo Add Node
+[2018.05.17-19.54.46:156][ 72]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.46:156][ 72]LogEditorTransaction: Undo Move Node
+[2018.05.17-19.54.46:505][ 89]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.46:505][ 89]LogEditorTransaction: Undo Create Pin Link
+[2018.05.17-19.54.46:884][107]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.46:884][107]LogEditorTransaction: Undo Move Node
+[2018.05.17-19.54.47:802][152]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.47:802][152]LogEditorTransaction: Undo Add Node
+[2018.05.17-19.54.48:336][178]Cmd: TRANSACTION UNDO
+[2018.05.17-19.54.48:336][178]LogEditorTransaction: Undo Create Pin Link
+[2018.05.17-19.55.13:647][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.55.13:705][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.17-19.55.14:047][429]LogSavePackage: Save=331.76ms
+[2018.05.17-19.55.14:047][429]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap_Auto73D6E44B3436162C185773B96F690972C.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto7.umap'
+[2018.05.17-19.55.14:047][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto7.umap
+[2018.05.17-19.55.14:050][429]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/LopMap' took 0.373
+[2018.05.17-19.55.14:050][429]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.373
+[2018.05.17-19.55.14:052][429]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/checkpoint] ([1] browsable assets)...
+[2018.05.17-19.55.14:052][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/checkpoint]
+[2018.05.17-19.55.14:052][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.05.17-19.55.14:185][429]LogSavePackage: Save=22.53ms
+[2018.05.17-19.55.14:185][429]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpoint_Auto7F0C8DE6D427E3734FC7F9FA32E915C82.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto7.uasset'
+[2018.05.17-19.55.14:186][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto7.uasset
+[2018.05.17-19.55.14:186][429]LogFileHelpers: Auto-saving content packages took 0.134
+[2018.05.17-19.55.28:689][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.55.39:661][663]Cmd: TRANSACTION UNDO
+[2018.05.17-19.55.39:661][663]LogEditorTransaction: Undo Move Node
+[2018.05.17-19.55.55:183][377]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2018.05.17-19.56.08:220][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.56.09:629][ 22]Cmd: TRANSACTION UNDO
+[2018.05.17-19.56.09:629][ 22]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-19.56.10:465][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_41)
+[2018.05.17-19.56.11:221][ 87]Cmd: TRANSACTION UNDO
+[2018.05.17-19.56.11:221][ 87]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-19.56.49:571][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.56.49:779][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.17-19.56.50:161][890]LogSavePackage: Save=349.48ms
+[2018.05.17-19.56.50:161][890]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMapBA2B7389480399D1DAECAB8F5C1F6322.tmp' to '../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap'
+[2018.05.17-19.56.50:167][890]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap
+[2018.05.17-19.56.50:185][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap_BuiltData" FILE="../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap_BuiltData.uasset" SILENT=true
+[2018.05.17-19.56.52:443][890]LogSavePackage: Save=2255.99ms
+[2018.05.17-19.56.52:443][890]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap_BuiltData0F8F07F34254FF9D96A91EBBC4F65DBA.tmp' to '../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap_BuiltData.uasset'
+[2018.05.17-19.56.52:444][890]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap_BuiltData.uasset
+[2018.05.17-19.56.55:058][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.56.57:167][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-19.56.58:493][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.57.01:761][222]BlueprintLog: New page: Compile Checkpoint
+[2018.05.17-19.57.02:905][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Content/blueprint/checkpoint.uasset" SILENT=true
+[2018.05.17-19.57.02:941][249]LogSavePackage: Save=25.02ms
+[2018.05.17-19.57.02:941][249]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpointA526AE4841A941204F53AFBBAA4685E0.tmp' to '../../../../../../Car_race/Content/blueprint/checkpoint.uasset'
+[2018.05.17-19.57.02:944][249]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/blueprint/checkpoint.uasset
+[2018.05.17-19.57.05:226][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.58.03:103][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-19.58.06:125][215]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-19.58.06:144][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-19.58.06:144][215]PIE: New page: PIE session: LopMap (May 18, 2018, 7:58:06 AM)
+[2018.05.17-19.58.06:144][215]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap
+[2018.05.17-19.58.06:171][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026824s)
+[2018.05.17-19.58.06:172][215]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-19.58.06:172][215]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.05.17-19.58.06:172][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/LopMap.LopMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap (0.028078s)
+[2018.05.17-19.58.06:202][215]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-19.58.06:230][215]LogInit: FAudioDevice initialized.
+[2018.05.17-19.58.06:267][215]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.17-19.58.06:273][215]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap up for play (max tick rate 60) at 2018.05.18-01.58.06
+[2018.05.17-19.58.06:274][215]LogWorld: Bringing up level for play took: 0.005920
+[2018.05.17-19.58.06:276][215]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap -0.369
+[2018.05.17-19.59.58:088][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-20.00.01:555][381]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-20.00.01:565][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.00.01:565][381]PIE: New page: PIE session: LopMap (May 18, 2018, 8:00:01 AM)
+[2018.05.17-20.00.01:565][381]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap
+[2018.05.17-20.00.01:589][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023894s)
+[2018.05.17-20.00.01:590][381]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-20.00.01:590][381]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2018.05.17-20.00.01:590][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/LopMap.LopMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap (0.025128s)
+[2018.05.17-20.00.01:614][381]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.00.01:641][381]LogInit: FAudioDevice initialized.
+[2018.05.17-20.00.01:678][381]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.17-20.00.01:684][381]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap up for play (max tick rate 60) at 2018.05.18-02.00.01
+[2018.05.17-20.00.01:685][381]LogWorld: Bringing up level for play took: 0.005387
+[2018.05.17-20.00.01:686][381]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap 1.041
+[2018.05.17-20.00.46:520][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-20.00.59:436][449]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-20.00.59:445][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.00.59:446][449]PIE: New page: PIE session: LopMap (May 18, 2018, 8:00:59 AM)
+[2018.05.17-20.00.59:446][449]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap
+[2018.05.17-20.00.59:469][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023254s)
+[2018.05.17-20.00.59:470][449]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-20.00.59:470][449]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2018.05.17-20.00.59:470][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/LopMap.LopMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap (0.024391s)
+[2018.05.17-20.00.59:494][449]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.00.59:522][449]LogInit: FAudioDevice initialized.
+[2018.05.17-20.00.59:556][449]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.17-20.00.59:562][449]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap up for play (max tick rate 60) at 2018.05.18-02.00.59
+[2018.05.17-20.00.59:563][449]LogWorld: Bringing up level for play took: 0.005317
+[2018.05.17-20.00.59:564][449]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap 0.919
+[2018.05.17-20.01.46:076][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-20.10.19:503][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.17-20.10.19:912][759]LogSavePackage: Save=397.61ms
+[2018.05.17-20.10.19:912][759]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap_Auto84D7D67554213D629C1A5B0B600460D2B.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto8.umap'
+[2018.05.17-20.10.19:913][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto8.umap
+[2018.05.17-20.10.19:915][759]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/LopMap' took 0.437
+[2018.05.17-20.10.19:915][759]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.437
+[2018.05.17-21.09.55:587][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.09.57:360][461]Cmd: TRANSACTION UNDO
+[2018.05.17-21.09.57:360][461]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-21.09.58:914][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_20)
+[2018.05.17-21.09.59:422][562]Cmd: TRANSACTION UNDO
+[2018.05.17-21.09.59:422][562]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-21.10.01:187][642]Cmd: POLY SELECT MEMORY UNION
+[2018.05.17-21.10.30:519][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.10.30:582][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.17-21.10.31:119][979]LogSavePackage: Save=435.78ms
+[2018.05.17-21.10.31:119][979]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap_Auto97D4A261641506B6358FB85AF868A2429.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto9.umap'
+[2018.05.17-21.10.31:120][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto9.umap
+[2018.05.17-21.10.31:123][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/LopMap' took 0.574
+[2018.05.17-21.10.31:123][979]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.574
+[2018.05.17-21.11.09:230][714]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.05.17-21.11.49:481][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.11.52:646][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.11.54:477][525]Cmd: TRANSACTION UNDO
+[2018.05.17-21.11.54:477][525]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-21.11.55:493][579]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.05.17-21.11.55:880][592]Cmd: TRANSACTION UNDO
+[2018.05.17-21.11.55:880][592]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-21.11.56:906][634]Cmd: TRANSACTION UNDO
+[2018.05.17-21.11.56:906][634]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-21.11.58:906][719]Cmd: TRANSACTION UNDO
+[2018.05.17-21.11.58:906][719]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-21.12.10:658][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.12.13:239][365]Cmd: TRANSACTION UNDO
+[2018.05.17-21.12.13:239][365]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-21.12.14:989][437]Cmd: TRANSACTION UNDO
+[2018.05.17-21.12.14:989][437]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.17-21.12.15:668][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2018.05.17-21.12.17:321][534]Cmd: TRANSACTION UNDO
+[2018.05.17-21.12.17:321][534]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-21.12.18:175][568]Cmd: TRANSACTION UNDO
+[2018.05.17-21.12.18:176][568]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-21.12.27:149][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.12.30:786][102]Cmd: TRANSACTION UNDO
+[2018.05.17-21.12.30:786][102]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-21.12.42:019][611]LogEditorViewport: Clicking on Actor (context menu): TextRenderActor (TextRenderActor)
+[2018.05.17-21.12.42:055][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.13.07:688][101]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.05.17-21.13.19:328][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.13.20:751][673]Cmd: TRANSACTION UNDO
+[2018.05.17-21.13.20:752][673]LogEditorTransaction: Undo Select Surfaces
+[2018.05.17-21.13.34:070][264]Cmd: TRANSACTION UNDO
+[2018.05.17-21.13.34:070][264]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.17-21.13.34:550][285]Cmd: TRANSACTION UNDO
+[2018.05.17-21.13.34:550][285]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.05.17-21.13.35:032][308]Cmd: TRANSACTION UNDO
+[2018.05.17-21.13.35:032][308]LogEditorTransaction: Undo Move Actors
+[2018.05.17-21.13.35:969][351]Cmd: TRANSACTION UNDO
+[2018.05.17-21.13.35:969][351]LogEditorTransaction: Undo Move Actors
+[2018.05.17-21.13.38:318][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.13.38:411][464]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-21.13.38:422][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-21.13.38:422][464]PIE: New page: PIE session: LopMap (May 18, 2018, 9:13:38 AM)
+[2018.05.17-21.13.38:422][464]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap
+[2018.05.17-21.13.38:449][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026815s)
+[2018.05.17-21.13.38:450][464]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-21.13.38:450][464]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2018.05.17-21.13.38:450][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/LopMap.LopMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap (0.028034s)
+[2018.05.17-21.13.38:479][464]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-21.13.38:508][464]LogInit: FAudioDevice initialized.
+[2018.05.17-21.13.38:543][464]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.17-21.13.38:550][464]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap.LopMap up for play (max tick rate 60) at 2018.05.18-03.13.38
+[2018.05.17-21.13.38:551][464]LogWorld: Bringing up level for play took: 0.006482
+[2018.05.17-21.13.38:552][464]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_LopMap -0.092
+[2018.05.17-21.17.18:042][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.17.45:795][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.17.49:653][322]LogSlate: Window 'Save Content' being destroyed
+[2018.05.17-21.17.53:884][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.17-21.17.54:233][322]LogSavePackage: Save=297.92ms
+[2018.05.17-21.17.54:233][322]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap8FC68FD54F2453DCEAD0369EFE51316B.tmp' to '../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap'
+[2018.05.17-21.17.54:235][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap
+[2018.05.17-21.17.54:248][322]LogFileHelpers: Saving map 'LopMap' took 4.585
+[2018.05.17-21.17.54:251][322]Cmd: MAP LOAD FILE="../../../../../../Car_race/Content/VehicleAdvBP/Maps/LopMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.17-21.17.54:251][322]LightingResults: New page: Lighting Build
+[2018.05.17-21.17.54:252][322]LoadErrors: New page: Loading map: LopMap.umap
+[2018.05.17-21.17.54:256][322]MapCheck: New page: Map Check
+[2018.05.17-21.17.54:256][322]LightingResults: New page: Lighting Build
+[2018.05.17-21.17.54:416][322]LogAIModule: Creating AISystem for world LopMap
+[2018.05.17-21.17.54:659][322]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.17-21.17.54:694][322]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.17-21.17.54:734][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.977ms to complete.
+[2018.05.17-21.17.54:736][322]LogFileHelpers: Loading map 'LopMap' took 0.486
+[2018.05.17-21.17.56:364][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.18.08:866][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.27.47:773][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/LopMap" FILE="../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.17-21.27.48:154][733]LogSavePackage: Save=369.87ms
+[2018.05.17-21.27.48:154][733]LogSavePackage: Moving '../../../../../../Car_race/Saved/LopMap_Auto0311A7281467D04A192C5F8A340D26EF3.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto0.umap'
+[2018.05.17-21.27.48:154][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/VehicleAdvBP/Maps/LopMap_Auto0.umap
+[2018.05.17-21.27.48:157][733]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/LopMap' took 0.413
+[2018.05.17-21.27.48:157][733]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.413
+[2018.05.17-21.27.48:159][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/checkpoint] ([1] browsable assets)...
+[2018.05.17-21.27.48:159][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/checkpoint]
+[2018.05.17-21.27.48:159][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/checkpoint" FILE="../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2018.05.17-21.27.48:193][733]LogSavePackage: Save=24.71ms
+[2018.05.17-21.27.48:193][733]LogSavePackage: Moving '../../../../../../Car_race/Saved/checkpoint_Auto0C7883A9541C050565BDF3D955D5DE33B.tmp' to '../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto0.uasset'
+[2018.05.17-21.27.48:193][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Car_race/Saved/Autosaves/Game/blueprint/checkpoint_Auto0.uasset
+[2018.05.17-21.27.48:193][733]LogFileHelpers: Auto-saving content packages took 0.035
+[2018.05.17-21.30.25:354][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.30.25:980][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
